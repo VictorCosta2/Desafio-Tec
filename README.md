@@ -1,4 +1,4 @@
-# Desafio Técnico - Grupo Imagem
+##Desafio Técnico - Grupo Imagem
 
 Dentro do processo seletivo, chegamos a parte do tão temido desafio técnico 😱😱
 
@@ -12,10 +12,12 @@ ou...
 
 b) Entregava! Mesmo sendo somente 2 Exs! Toda essa experiência, vai me ajudar muito em alguma parte da minha vida. Não poderia ou melhor, não vou deixar toda a troca que tive com o time ser em vão....
 
-                                               Resolução!
+##Resolução!!
 
 Os exs resolvidos foram o 4 e 7. Como tive pouco tempo, tive que escolher os que melhor iria saber lidar.
 
+
+##TO-DO-LIST
            
 
 
